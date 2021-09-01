@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our slide deck!"
----
-
-Use the right arrow to begin!
+here are new
+line added
+5 more line added
+new line
+comment
